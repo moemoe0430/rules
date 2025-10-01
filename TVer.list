@@ -1,0 +1,25 @@
+# NAME: TVer
+# UPDATED: 2025-10-01
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 1
+# TOTAL: 
+
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,player.tver.jp
+DOMAIN-SUFFIX,contents-api.tver.jp
+DOMAIN-SUFFIX,service-api.tver.jp
+DOMAIN-SUFFIX,platform-api.tver.jp
+DOMAIN-SUFFIX,member-api.tver.jp
+DOMAIN-SUFFIX,user-api.tver.jp
+DOMAIN-SUFFIX,statics.tver.jp
+DOMAIN-SUFFIX,s.tver.jp
+DOMAIN-SUFFIX,ntv-vod-s-cdn.tver.jp
+DOMAIN-SUFFIX,tos-live-cdn.tver.jp
+DOMAIN-SUFFIX,tx-live-cdn.tver.jp
+DOMAIN-SUFFIX,interactive-circle.jp
+DOMAIN-SUFFIX,log7.interactive-circle.jp
+DOMAIN-SUFFIX,v-img-mv.interactive-circle.jp
+DOMAIN-SUFFIX,interactive-sdk.s3.amazonaws.com
+DOMAIN-KEYWORD,tver
+USER-AGENT,TVer*
