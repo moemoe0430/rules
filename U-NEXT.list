@@ -1,0 +1,16 @@
+# NAME: U-NEXT
+# UPDATED: 2025-10-01
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 1
+# TOTAL: 9
+
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,video.unext.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unextcdn.jp
+DOMAIN-SUFFIX,unextusercontent.com
+DOMAIN-SUFFIX,unextvideo.jp
+DOMAIN-SUFFIX,unextvideo.net
+DOMAIN-KEYWORD,unext
+USER-AGENT,UNEXT*
