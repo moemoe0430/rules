@@ -1,14 +1,13 @@
 # NAME: TVer
 # UPDATED: 2025-10-02
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
+# DOMAIN-SUFFIX: 5
 # USER-AGENT: 1
-# TOTAL: 8
+# TOTAL: 
 
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,interactive-circle.jp
 DOMAIN-SUFFIX,interactive-sdk.s3.amazonaws.com
-DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-KEYWORD,tver
