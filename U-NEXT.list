@@ -1,9 +1,9 @@
 # NAME: U-NEXT
 # UPDATED: 2025-10-01
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 13
 # USER-AGENT: 1
-# TOTAL: 9
+# TOTAL: 
 
 DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,video.unext.jp
@@ -12,5 +12,12 @@ DOMAIN-SUFFIX,unextcdn.jp
 DOMAIN-SUFFIX,unextusercontent.com
 DOMAIN-SUFFIX,unextvideo.jp
 DOMAIN-SUFFIX,unextvideo.net
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,streamh02cf.nxtv.jp
+DOMAIN-SUFFIX,scene01c.nxtv.jp
+DOMAIN-SUFFIX,metac.nxtv.jp
+DOMAIN-SUFFIX,imgc.nxtv.jp
+DOMAIN-SUFFIX,live101.ca.nxtv.jp
 DOMAIN-KEYWORD,unext
+DOMAIN-KEYWORD,nxtv
 USER-AGENT,UNEXT*
